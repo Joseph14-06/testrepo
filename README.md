@@ -1,2 +1,2 @@
 # testrepo
-This is to create repository samp.
+This is to create repository sample.
